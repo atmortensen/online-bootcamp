@@ -5,3 +5,12 @@ i.icon {
 .container.main {
 	margin-top: 7.0em;
 }
+
+form.button {
+	float: right;
+	margin: 5px;
+}
+
+.clear {
+	clear: both;
+}
